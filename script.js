@@ -8,7 +8,7 @@ function toggleMode() {
     img.alt =
       "Foto de perfil do Mayk Brito sorrindo, com óculos escuros e fundo azul"
   } else {
-    img.src = "./assetss/avatar.png"
+    img.src = "./assets/avatar.png"
     img.alt = "Foto de perfil do Mayk Brito sério, com óculos e fundo azul"
   }
 }
